@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	The git init command creates the repoistory in the directory you are currently in. This is handy so you can keep track of all the files related to a certain project.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area allows you to group some files together so you can commit them at the same time which is helpful when the files are all related to the same concept.
+
