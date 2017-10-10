@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	The git init command creates the repoistory in the directory you are currently in. This is handy so you can keep track of all the files related to a certain project.
+

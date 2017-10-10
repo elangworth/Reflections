@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It was nice being able to see the variations by line even though I could not tell what line it was in the file. It would have been easy to copy and ctrl f for the line that needed to be changed. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	
+	I am not really sure about this right now. I am not a programmer yet. It certainly was a pain the but having to manually save different versions of files in my last job though.
+	It was a pain having to reference them on my desktop and external drive. It would be really nice and convenient to have everything in one place. It have been so long since I have had to type anything of substance.
+	It is nice getting back into the habit of typing. I am not doing too bad considering it has been 11 months since I have had to type on a keyboard. :)
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Sometimes I forget to save files which could mean I end up losing a bunch of work I have already done which is hugely annoying. Automatically saving is so nice. At my last job windows would randomly restart sometimes because of things going on in the background with updates, etc. I have been saving this file every time I answer a new question. Luckily, I have been remembering so far. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	I am wondering how Git saves all three files at once. Do you have to do 3 seperate commits or is it just one commit and the system does the other two automatically? I guess I will find out soon. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+	The log lets you see all the versions of your file and you can use the command to see what was added in newer versions. They will be green and anything deleted will be in red. 
+
+How might using version control make you more confident to make changes that could break something?
+
+	It is reassuring to know that if your code completely falls apart and you don't know why that you can go back to other saves to figure out where you started to go wrong. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I am going to start taking the programming course once I am finished with this workshop and I going to start using it when doing that course. I figured I would start with the course and see how far I could make it on my own. I didn't have to ask my husband for too much help. Only a little bit in this last section. 
+
+ 
