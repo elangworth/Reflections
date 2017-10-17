@@ -15,6 +15,12 @@ What is the benefit of having a copy of the last known state of the remote store
 
   You can use it offline and continue working on your project in places like airplanes. 
   
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I would probably resort to emailing files back and forth. It might be easier to see what needed to be looked at in the body of the email.
+  It would certainly be more difficult to keep track of what is the most current correct version of the project.
+  
+
 
   
 
